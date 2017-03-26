@@ -21,8 +21,7 @@ defaults:
 # Filtering Content
 show_drafts: null
 limit_posts: 0
-future:      true
+future:      false
 unpublished: false
 
 repository: RecipesAreJustGuidelines/RecipesAreJustGuidelines.github.io
-theme: jekyll-theme-architect

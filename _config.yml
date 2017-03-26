@@ -1,0 +1,27 @@
+title: Recipes Are Just Guidelines
+tagline: Blueprints for tasty recipes
+baseurl: /
+url: http://www.recipesarejustguidelines.com
+email: contact@recipesarejustguidelines.com
+paginate: 10
+timezone: America/Chicago
+highlighter: null
+exclude:
+  - README.md
+  - Gemfile
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Amanda"
+  
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      true
+unpublished: false
+
+repository: RecipesAreJustGuidelines/RecipesAreJustGuidelines.github.com

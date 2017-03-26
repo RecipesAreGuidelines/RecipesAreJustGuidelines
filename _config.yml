@@ -25,3 +25,4 @@ future:      true
 unpublished: false
 
 repository: RecipesAreJustGuidelines/RecipesAreJustGuidelines.github.io
+theme: jekyll-theme-architect

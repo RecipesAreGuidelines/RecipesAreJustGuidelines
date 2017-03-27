@@ -5,6 +5,7 @@ url: http://www.recipesarejustguidelines.com
 email: contact@recipesarejustguidelines.com
 paginate: 10
 timezone: America/Chicago
+excerpt_separator: <!--more-->
 highlighter: null
 exclude:
   - README.md

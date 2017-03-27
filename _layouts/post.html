@@ -6,8 +6,12 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-meta">
     <span class="post-date">
-      <i class="fa fa-calendar"></i>
-      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    </span>
+    <span class="post-tags">
+      {% for tags in page.tags %}
+      <a>{{ tags }}</a>
+      {% endfor %}
     </span>
   </div>
   {{ content }}

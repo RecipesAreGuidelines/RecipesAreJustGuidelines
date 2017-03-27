@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mustard and Shallot Salmon Burgers
-date: 2017-04-05 05:00:00
+date: 2017-03-26 05:00:00
 tags: Dinner Seafood
 ---
 
@@ -9,7 +9,11 @@ Sometimes you need a break from the standard every day beef burgers!
 
 ![Mustard and Shallot Salmon Burger](/public/images/Salmon Burgers with Book.jpg)
 
-Mark Bittman's Kitchen Matrix is the perfect "guideline" book.  Mark Bittman gives you tons of ideas for all kinds of ingredients.  Today I was craving salmon so I opened to that section which is further categorized as Raw, Poached, Grilled or Burgers.  I went with the Mustard and Shallots variation of the burger.  I ended up topping it with lettuce, cucumbers, red onion and more Dijon mustard.  Without the mustard it was a little plain.  I swear the picture in the book has white sauce sticking out of the bottom, but the recipe doesn't talk about it at all.  The other two variations have a sauce - yogurt to go on the curried burger and salsa for a spicier version.
+Mark Bittman's [Kitchen Matrix](http://amzn.to/2nb5Q4D) is the perfect "guideline" book.  Bittman gives you tons of ideas for all kinds of ingredients.  
+
+<!--more-->
+
+Today I was craving salmon so I opened to that section which is further categorized as Raw, Poached, Grilled or Burgers.  I went with the Mustard and Shallots variation of the burger.  I ended up topping it with lettuce, cucumbers, red onion and more Dijon mustard.  Without the mustard it was a little plain.  I swear the picture in the book has white sauce sticking out of the bottom, but the recipe doesn't talk about it at all.  The other two variations have a sauce - yogurt to go on the curried burger and salsa for a spicier version.
 
 Have you ever tried a salmon burger?
 

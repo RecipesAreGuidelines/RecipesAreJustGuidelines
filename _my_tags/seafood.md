@@ -1,0 +1,4 @@
+---
+slug: seafood
+name: Seafood
+---

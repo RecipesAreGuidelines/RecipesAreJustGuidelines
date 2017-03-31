@@ -23,6 +23,24 @@
           </h1>
         </div>
       </header>
+      <nav class="menu-bar">
+        <div class="container">
+          <ul>
+            <li>
+              <a href="{{ site.baseurl }}" title="Home">Home</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}" title="Recipes">Recipes</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}" title="Tips">Tips</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}about" title="About">About</a>
+              </li>
+          </ul>
+        </div>
+      </nav>
       <div class="container content">
         <main>
           {{ content }}
@@ -30,7 +48,7 @@
         <hr>
         <footer class="site-footer">
           <ul>
-            <li><a href="{{ site.baseurl }}about.html">About</a></li>
+            <li><a href="{{ site.baseurl }}about">About</a></li>
             <li>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> All Rights Reserved</li>
           <ul>
         </footer>

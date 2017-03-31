@@ -3,7 +3,11 @@ header.masthead
 	color: white;
 	padding-top: .5rem;
 	padding-bottom: .5rem;
-	margin-bottom: 1.5rem;
+}
+
+.masthead
+{
+	margin-bottom: -0.5rem;
 }
 
 header.masthead .masthead-title > a
@@ -23,6 +27,26 @@ header.masthead img.logo
 header.masthead .masthead-title > small
 {
 	white-space: nowrap;
+}
+
+.menu-bar
+{
+	 height: 2rem; 
+	 background: #25A186; 
+	 margin-bottom: 1rem;
+}
+
+.menu-bar li
+{
+	list-style-type: none; 
+	display: inline-block; 
+}
+
+.menu-bar a
+{
+	color: white;
+	padding: 55px;
+	line-height: 2;
 }
 
 .site-footer

@@ -7,6 +7,11 @@ paginate: 10
 timezone: America/Chicago
 excerpt_separator: <!--more-->
 highlighter: null
+permalink: /:title/
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:name/
 exclude:
   - README.md
   - Gemfile
@@ -18,6 +23,12 @@ defaults:
     values:
       layout: "post"
       author: "Amanda"
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: tag
   
 # Filtering Content
 show_drafts: null

@@ -5,6 +5,7 @@ date: 2017-03-29 05:00:00
 tags: [dinner, seafood]
 cover_picture_img: "/public/images/Salmon Burgers with Book.jpg"
 cover_picture_alt: "Mustard and Shallot Salmon Burger -- Recipes Are Just Guidelines"
+comments: true
 ---
 
 Sometimes you need a break from the standard every day beef burgers!

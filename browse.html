@@ -15,6 +15,9 @@ title: Recipes By Tag
                         {{ post.title }}
                     </a>
                 </h3>
+                {% if post.cover_picture_img %}
+                    <img class="post-cover-img" src="{{ post.cover_picture_img }}" alt="{{ post.cover_picture_alt }}">
+                {% endif %}
                 <!--<div class="post-meta">
                 <span class="post-date">
                     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>

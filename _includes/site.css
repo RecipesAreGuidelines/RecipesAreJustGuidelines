@@ -59,8 +59,15 @@ header.masthead .masthead-title > small
 .menu-bar a
 {
 	color: white;
-	padding: 55px;
+	padding: 0.5rem;
 	line-height: 2;
+}
+
+@media (min-width: 30em) {
+	.menu-bar a
+	{
+		padding: 55px;
+	}
 }
 
 .site-footer
@@ -130,12 +137,9 @@ p.post-excerpt:after
     background: linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%);
 }
 
-
-pre > code.language-javascript
+.post-cover-img
 {
-	white-space: pre;
-	word-wrap: normal;
-	background-color: #f9f9f9;
+	width: 50%;
 }
 
 .post-date {
@@ -171,12 +175,12 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
-@media (min-width: 30em) {
-  .pagination {
-    margin: 3rem 0;
-  }
-  .pagination-item {
-    float: none;
-    width: 100%;
-  }
+
+.pagination {
+margin: 3rem 0;
 }
+.pagination-item {
+float: none;
+width: 100%;
+}
+

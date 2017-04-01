@@ -2,6 +2,7 @@
 layout: post
 title: First Post!
 date: 2017-03-20 05:00:00
+comments: true
 ---
 
 Here's my obligatory first post!

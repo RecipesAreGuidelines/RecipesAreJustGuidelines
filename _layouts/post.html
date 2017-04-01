@@ -29,7 +29,11 @@ layout: default
   </div>
   {{ content }}
 
-  <p>See More {{ tags_content }}</p>
+  {% if post.tags.size > 0 %}
+    <p>See More {{ tags_content }}</p>
+  {% endif %}
+
+  <br />
 
   {% if page.comments %}
     <div id="disqus_thread"></div>

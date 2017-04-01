@@ -141,3 +141,8 @@ pre > code.language-javascript
 .post-tags a {
 	color: #25A186;
 }
+
+.tag-title {
+	color: #616161;
+	margin-bottom: 1rem;
+}

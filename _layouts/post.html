@@ -16,7 +16,7 @@ layout: default
 {% endif %}
 
 <article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h2 class="post-title">{{ page.title }}</h2>
   <div class="post-meta">
     <span class="post-date">
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
@@ -28,6 +28,6 @@ layout: default
     </span>-->
   </div>
   {{ content }}
-  
+
   <p>{{ tags_content }}</p>
 </article>

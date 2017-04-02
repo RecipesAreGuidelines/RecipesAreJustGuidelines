@@ -3,14 +3,14 @@ layout: post
 title: Mustard and Shallot Salmon Burgers
 date: 2017-03-29 05:00:00
 tags: [dinner, seafood]
-cover_picture_img: "/public/images/Salmon Burgers with Book.jpg"
+cover_picture_img: "/public/images/salmon burgers/Salmon Burgers with Book.jpg"
 cover_picture_alt: "Mustard and Shallot Salmon Burger -- Recipes Are Just Guidelines"
 comments: true
 ---
 
 Sometimes you need a break from the standard every day beef burgers!
 
-![Mustard and Shallot Salmon Burger -- Recipes Are Just Guidelines](/public/images/Salmon Burgers with Book.jpg)
+![Mustard and Shallot Salmon Burger -- Recipes Are Just Guidelines](/public/images/salmon burgers/Salmon Burgers with Book.jpg)
 
 Mark Bittman's [Kitchen Matrix](http://amzn.to/2nb5Q4D) is the perfect "guideline" book.  Bittman gives you tons of ideas for all kinds of ingredients.  
 
@@ -31,17 +31,17 @@ Looking around online, I stumbled across his recipe on [Diner's Journal](https:/
 
 Once you've settled on mix-ins and toppings (hmm, now I want a sundae) it's time to assemble!
 
-![Mustard and Shallot Salmon Burger with patty and sauce -- Recipes Are Just Guidelines](/public/images/Salmon Burgers Patty.jpg)
+![Mustard and Shallot Salmon Burger with patty and sauce -- Recipes Are Just Guidelines](/public/images/salmon burgers/Salmon Burgers Patty.jpg)
 
 Spread the sauce on top and add the freshly seared patty.
 
-![Mustard and Shallot Salmon Burger with lettuce -- Recipes Are Just Guidelines](/public/images/Salmon Burgers Lettuce.jpg)
-![Mustard and Shallot Salmon Burger with onion -- Recipes Are Just Guidelines](/public/images/Salmon Burgers Onions.jpg)
-![Mustard and Shallot Salmon Burger with cucumbers -- Recipes Are Just Guidelines](/public/images/Salmon Burgers Cucumbers.jpg)
+![Mustard and Shallot Salmon Burger with lettuce -- Recipes Are Just Guidelines](/public/images/salmon burgers/Salmon Burgers Lettuce.jpg)
+![Mustard and Shallot Salmon Burger with onion -- Recipes Are Just Guidelines](/public/images/salmon burgers/Salmon Burgers Onions.jpg)
+![Mustard and Shallot Salmon Burger with cucumbers -- Recipes Are Just Guidelines](/public/images/salmon burgers/Salmon Burgers Cucumbers.jpg)
 
 Then add lettuce, onion, cucumbers, or whatever else you happen to have in your fridge that sounds good.
 
-![Mustard and Shallot Salmon Burger ready for eating -- Recipes Are Just Guidelines](/public/images/Salmon Burgers Final.jpg)
+![Mustard and Shallot Salmon Burger -- Recipes Are Just Guidelines](/public/images/salmon burgers/Salmon Burgers Final.jpg)
 
 And voila!  A fresh new way to get your Omega-3s!
 

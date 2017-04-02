@@ -63,7 +63,7 @@ header.masthead .masthead-title > small
 	line-height: 2;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 50em) {
 	.menu-bar a
 	{
 		padding: 55px;
